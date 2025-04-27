@@ -47,11 +47,11 @@ To run **Asteroid Assault**, follow these steps:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/asteroid-assault.git
+   https://github.com/renzv-compsci/Finals-Game.git
 3. Navigate to the game directory:
 
     ```bash
-    cd asteroid-assault
+    cd Finals-Game
     ```
 
 4. Install the required dependencies:
@@ -63,7 +63,7 @@ To run **Asteroid Assault**, follow these steps:
 5. Run the game:
 
     ```bash
-    python asteroid_assault.py
+    python FINAL GAME.py 
     ```
 ## Game Controls
 
@@ -73,12 +73,12 @@ To run **Asteroid Assault**, follow these steps:
 
 ## Technologies Used
 
-- **Python 3.x**: The programming language used for the game's development.
+- **Python 3.13**: The programming language used for the game's development.
 - **Pygame**: A set of Python modules designed for writing video games. It is used for rendering graphics, handling user input, and controlling game logic.
 
 ## Credits
 
-- **Renz Viloria, Charles Cabatian, Mark Anub, and Jon Beltran**: Developer of the game.
+- **Renz Viloria, Charles Cabatian, Mark Anub, and Jon Beltran**: Developers of the game.
 - **Game Inspiration**: Classic arcade games like Asteroids.
 
 ## License
